@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Majidbrohi
+- 👋 Hi, I’m @Anziq Majid.
 - 👀 I’m a programer
 - 🌱 I Wana collaborate with someone who's really enthusiastic about coding.. 
 -I have learned programing languages like:
