@@ -1,17 +1,18 @@
-- 👋 Hi, I’m @Anziq Majid.
-- 👀 I’m a programer
-- 🌱 I Wana collaborate with someone who's really enthusiastic about coding.. 
--I have learned programing languages like:
-🫴HTML,
-💻CSS,
-J👾AVASCRIPT,
-P🐍YTHON
-&
-learning 🐼TYPESCRIPT.
-- 💞️... GROUP TO GROOM...
-- 📫to reach me brohiajid373@gmail.com ...
+  # Group to Groom - Collaboration Opportunity
 
-<!---
-Majidbrohi/Majidbrohi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Anziq Majid.
+
+👀 I’m a programmer enthusiastic about coding and eager to collaborate with like-minded individuals!
+
+🌱 I have a solid foundation in programming languages such as:
+- 🫴 HTML
+- 💻 CSS
+- J👾avascript
+- P🐍ython
+- Currently learning 🐼 TypeScript
+
+💞️ I believe in the power of teamwork and collaboration to enhance skills and create amazing projects. Let's grow together!
+
+📫 You can reach me at brohiajid373@gmail.com to discuss potential collaboration opportunities.
+
+Looking forward to connecting with you!
