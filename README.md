@@ -23,6 +23,5 @@
 🔗 LinkedIn: linkedin.com/in/a-majid-brohi
 🐙 GitHub: github.com/Majidbrohi
 🎮 Discord: discord.com/users/1208470541166444584
-📷 Instagram: instagram.com/YOUR_INSTAGRAM (update your username)
 📧 Email: brohimajid373@gmail.com
 🔥 Looking forward to connecting & collaborating with you!
