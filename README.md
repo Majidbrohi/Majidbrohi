@@ -1,18 +1,28 @@
-  # Group to Groom - Collaboration Opportunity
-
+ 🚀 Group to Groom - Collaboration Opportunity
 👋 Hi, I’m @Anziq Majid.
 
-👀 I’m a programmer enthusiastic about coding and eager to collaborate with like-minded individuals!
+👀 I’m a frontend developer passionate about coding and eager to collaborate with like-minded individuals!
 
-🌱 I have a solid foundation in programming languages such as:
-- 🫴 HTML
-- 💻 CSS
-- J👾avascript
-- P🐍ython
-- Currently learning 🐼 TypeScript
+🌱 I have a solid foundation in programming languages and technologies, including:
 
-💞️ I believe in the power of teamwork and collaboration to enhance skills and create amazing projects. Let's grow together!
+🫴 HTML
+💻 CSS
+👾 JavaScript
+🐍 Python
+🐼 TypeScript
+⚡ Next.js
+🚀  React.js
+📌 Exploring Agentic AI (CrewAI)
 
-📫 You can reach me at brohiajid373@gmail.com to discuss potential collaboration opportunities.
+💡 I’m also the co-founder of Inventura Studio, Must Visit Our Website (https://inventurastudio.com/ ) a software house specializing in web development, digital marketing, and graphic design.
 
-Looking forward to connecting with you!
+💞️ I believe in the power of teamwork and collaboration to enhance skills and create amazing projects. Let's build, innovate, and grow together!
+
+📌 Social Media & Contacts:
+
+🔗 LinkedIn: linkedin.com/in/a-majid-brohi
+🐙 GitHub: github.com/Majidbrohi
+🎮 Discord: discord.com/users/1208470541166444584
+📷 Instagram: instagram.com/YOUR_INSTAGRAM (update your username)
+📧 Email: brohimajid373@gmail.com
+🔥 Looking forward to connecting & collaborating with you!
